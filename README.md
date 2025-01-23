@@ -4,13 +4,13 @@
 	       - Using Python Language for Target Code Generation.
 + **Team Members:**
   
-  *1	[Bezawit Megersa]- [1405067] 
-  *2	[Bezawit Mamo]	  -      [1405561] 
-  *3	[Betelhem Tsega]   -	 [1404679]
-  *4	[Afomiya Ketsella]  -     [ 1403952] 
-  *5	[Afrah Maruf]	    -     [1405436] 
-  *6	[Yordanos Molla]   -	[ 1411047]
-  *7.	[Rebika Yhinew]     -	 [1405547]
+  * 1	[Bezawit Megersa]- [1405067] 
+  * 2	[Bezawit Mamo]	  -      [1405561] 
+  * 3	[Betelhem Tsega]   -	 [1404679]
+  * 4	[Afomiya Ketsella]  -     [ 1403952] 
+  * 5	[Afrah Maruf]	    -     [1405436] 
+  * 6	[Yordanos Molla]   -	[ 1411047]
+  * 7.	[Rebika Yhinew]     -	 [1405547]
   
    
    # commands we used to run
