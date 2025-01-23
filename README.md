@@ -10,7 +10,7 @@
   * 4	[Afomiya Ketsella]  -     [ 1403952] 
   * 5	[Afrah Maruf]	    -     [1405436] 
   * 6	[Yordanos Molla]   -	[ 1411047]
-  * 7.	[Rebika Yhinew]     -	 [1405547]
+  * 7	[Rebika Yhinew]     -	 [1405547]
   
    
    # commands we used to run
